@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbmodem143301",
+    "board": "arduino:mbed:nano33ble",
+    "programmer": "AVR ISP",
+    "sketch": "drummer.ino"
+}

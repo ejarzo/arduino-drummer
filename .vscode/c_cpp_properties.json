@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/eliasjarzombek/Library/Arduino15/packages/arduino/hardware/mbed/1.3.0/**",
+                "/Users/eliasjarzombek/Library/Arduino15/packages/arduino/tools/**",
+                "/Users/eliasjarzombek/Documents/Arduino/libraries/**",
+                "/Applications/Arduino.app/Contents/Java/libraries/**",
+                "/Users/eliasjarzombek/Library/Arduino15/packages/arduino/hardware/samd/1.8.9/**"
+            ],
+            "forcedInclude": [
+                "/Users/eliasjarzombek/Library/Arduino15/packages/arduino/hardware/mbed/1.3.0/cores/arduino/Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
